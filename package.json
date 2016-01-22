@@ -1,6 +1,12 @@
 {
   "name": "twister",
-  "version": "0.1.0",
+  "description": "A multimedia jekyll theme",
+  "author": "Digitalmind <info@digitalmind.ch>",
+  "version": "1.0.0",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/DigitalMindCH/twister"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^1.0.1",

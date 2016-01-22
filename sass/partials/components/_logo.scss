@@ -12,20 +12,37 @@
 }
 
 .twister{
-    font-size:13px;
+    font-size:25px;
     font-weight: $light;
     line-height:125%;
-    fill:#679bb6;
+    fill:$coal;
     font-family: $roboto;
+    text-transform: uppercase;
     transition: .3s all ease;
 }
 
 .slogan{
-    font-size:3.4px;
+    font-size:7px;
     font-weight:200;
     line-height:125%;
-    fill:#666666;
+    fill:$magenta;
     font-family: $roboto;
     transition: .3s all ease;
 }
 
+a:hover{
+    svg{
+        .icon{
+            fill:$magenta;
+            stroke:$coal;
+        }
+
+        .twister{
+            fill:$blue;
+        }
+
+        .slogan{
+            fill:$lightblue;
+        }
+    }
+}

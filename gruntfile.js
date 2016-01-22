@@ -38,7 +38,7 @@ module.exports = function(grunt) {
                 livereload: true
             },
             site: {
-                files: ["*.html", "**/*.html", "*.md", "**/*.md", "**/*.yml", "*.yml", "!_site/*.*", "!_site/**/*.*", "!documentation/*.*", "!documentation/**/*.*"],
+                files: ["*.html", "**/*.html", "*.md", "**/*.md", "**/*.yml", "*.yml", "!_site/*.*", "!_site/**/*.*"],
                 tasks: ["shell:jekyllBuild"]
             },
             js: {

@@ -1,18 +1,5 @@
-_site/
-.sass-cache/
-
-_data/authors.yml
-
-_includes/article_index_short.html
-
-_includes/full.html
-
-_layouts/author_index.html
-
-_layouts/category_index.html
-
-_layouts/index_alt.html
-
-_layouts/tag_index.html
-
-_site/
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/node_modules/
+/_site/
