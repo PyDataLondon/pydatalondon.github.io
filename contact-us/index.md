@@ -1,13 +1,17 @@
 ---
 layout: page_full
 featimg: contact.jpg
-title: Contact Pydata London
+title: Contact PyData London
 ---
 
-The best way to get in touch with us is via the "Contact" function on our [Meetup page](http://www.meetup.com/PyData-London-Meetup/). You can also follow and get in touch with us [@pydatalondon on Twitter](https://twitter.com/pydatalondon/).
+The best way to get in touch with us is via the "Contact" function on our
+[Meetup page](http://www.meetup.com/PyData-London-Meetup/).
 
+You can also follow and get in touch with us
+[@pydatalondon on Twitter](https://twitter.com/pydatalondon/).
 
 PyData London events are put together by the following volunteers:
+
 * Calvin Giles - [Twitter](https://twitter.com/calvingiles)
 * Cecilia Liao - [Twitter](https://twitter.com/cecilialiao) - [Blog](http://cecilialiao.com/)
 * Emlyn Clay - [Twitter](https://twitter.com/emlynclay)
