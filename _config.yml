@@ -1,6 +1,6 @@
 name: PyData London
-description: Official website for PyData London Meetups and Coneference
-url: http://pydatalondon.github.io
+description: Official website for PyData London Meetups and Conference
+url: http://london.pydata.org
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
