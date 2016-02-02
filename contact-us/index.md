@@ -15,7 +15,7 @@ PyData London events are put together by the following volunteers:
 * Calvin Giles - [Twitter](https://twitter.com/calvingiles)
 * Cecilia Liao - [Twitter](https://twitter.com/cecilialiao) - [Blog](http://cecilialiao.com/)
 * Emlyn Clay - [Twitter](https://twitter.com/emlynclay)
-* Florian Rathgeber - [Twitter](https://twitter.com/frathgeber)
+* Florian Rathgeber - [Twitter](https://twitter.com/frathgeber) - [Blog](https://kynan.github.io)
 * Graham Markall - [Twitter](https://twitter.com/gmarkall)
 * Ian Ozsvald - [Twitter](https://twitter.com/ianozsvald) - [Blog](http://ianozsvald.com/)
 * Priya - Twitter [Twitter](https://twitter.com/hello_kepler22b)
