@@ -11,6 +11,7 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
+analytics_id: UA-73343207-1
 twitter: "https://twitter.com/pydatalondon"
 youtube: "https://www.youtube.com/user/PyDataTV"
 vimeo: "https://vimeo.com/pydata"
