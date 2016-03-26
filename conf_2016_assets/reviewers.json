@@ -1,0 +1,100 @@
+{ "data": [
+            {"name": "Ruby Childs",
+             "twitter": "rubychilds",
+             "github": "https://github.com/rubychilds",
+             "linkedin": "https://www.linkedin.com/in/rubychilds1",
+             "personal_website": "http://rubychilds.com/",
+             "image": "images/ruby.png"},
+
+            {"name": "Elena Chatzimichali",
+             "twitter": "eaHatz",
+             "github": "",
+             "linkedin": "https://uk.linkedin.com/in/eachatzimichali",
+             "personal_website": "",
+             "image": "images/elena.png"
+            },
+
+            {"name": "Graham Markall",
+             "twitter": "gmarkall",
+             "github": "https://github.com/gmarkall",
+             "linkedin": "https://www.linkedin.com/in/graham-markall-0087a215",
+             "personal_website": "http://www.big-grey.co.uk",
+             "image": "images/graham.jpg"},
+
+            {"name": "Ian Ozsvald",
+            "twitter": "ianozsvald",
+            "github": "https://github.com/ianozsvald/",
+            "linkedin": "http://www.linkedin.com/in/ianozsvald",
+            "personal_website": "http://ianozsvald.com/",
+            "image": "images/ian.jpg"},
+
+            {"name": "Chih-Chun Chen",
+              "twitter": "chihchun_chen",
+              "github": "https://github.com/cambridgecoding",
+              "linkedin": "https://www.linkedin.com/in/chihchunchen",
+              "personal_website": "http://abmcet.net/Chih-Chun_Chen/home.html",
+              "image": "images/chiha.png"
+            },
+
+            {"name": "Marco Bonzanini",
+              "twitter": "marcobonzanini",
+              "github": "https://github.com/bonzanini",
+              "linkedin": "https://uk.linkedin.com/in/marcobonzanini",
+              "personal_website": "http://marcobonzanini.com",
+              "image": "images/marco.jpg"
+            },
+
+            {"name": "Katie Barr",
+              "twitter": "drkbarr",
+              "github": "https://github.com/kebarr",
+              "linkedin": "https://uk.linkedin.com/in/dr-katie-barr-40a49b27",
+              "personal_website": "",
+              "image": "images/katie.png"
+            },
+
+            {"name": "Emlyn Clay",
+              "twitter": "emlynclay",
+              "github": "https://github.com/emlync",
+              "linkedin": "https://www.linkedin.com/in/emlynclay",
+              "personal_website": "http://emlynclay.co.uk",
+              "image": "images/emlyn.png"
+            },
+
+            {"name": "Daniel Slater",
+              "twitter": "danielslaterish",
+              "github": "https://github.com/DanielSlater/",
+              "linkedin": "https://uk.linkedin.com/in/daniel-slater-3032a016",
+              "personal_website": "www.danielslater.net",
+              "image": "images/daniel.png"
+            },
+            {"name": "Linda Uruchurtu",
+              "twitter": "lindauruchurtu",
+              "github": "",
+              "linkedin": "https://www.linkedin.com/in/lindauruchurtu",
+              "personal_website": "www.danielslater.net",
+              "image": "images/linda.jpg"
+            },
+            {"name": "Priya Gogna",
+            "github": "https://github.com/pri9",
+            "linkedin": "https://uk.linkedin.com/in/priyagogna",
+            "twitter": "hello_kepler22b",
+            "personal_website": "",
+            "image": "images/priya.png"
+          },
+
+          {"name": "Maria Lehl",
+            "github": "",
+            "linkedin":	"https://uk.linkedin.com/in/maria-lehl-51264b92",
+            "twitter": "",
+            "personal_website": "",
+            "image": "images/maria.png"
+          }
+
+          {"name": "Giles Weaver",
+            "github": "",
+            "linkedin":	"https://uk.linkedin.com/in/giles-weaver-3b66371",
+            "twitter": "gilesweaver",
+            "personal_website": "",
+            "image": "images/giles.jpg"
+          }
+]}
