@@ -200,7 +200,7 @@ function CreateThumb(id, name, bio, email, twitter, github, linkedin, personal_w
 
   var image = $('<img>').attr({
     'class': "img-responsive center-block",
-    'src': image,
+    'src': 'https://cdn.rawgit.com/PyDataLondon/pydatalondon.github.io/master/conf_2016_assets/' + image,
     'alt': '',
 		'width': '150px',
 		'height': '150px'
