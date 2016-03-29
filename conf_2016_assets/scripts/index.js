@@ -100,9 +100,63 @@ var committee = { "data": [{"name": "Ruby Childs",
 			          }
 			]};
 
+var chairs = {"data": [
+			            {"name": "Ian Ozsvald",
+			            "twitter": "ianozsvald",
+			            "github": "https://github.com/ianozsvald/",
+			            "linkedin": "http://www.linkedin.com/in/ianozsvald",
+			            "personal_website": "http://ianozsvald.com/",
+			            "image": "images/ian.png"},
+									{"name": "Emlyn Clay",
+			              "twitter": "emlynclay",
+			              "github": "https://github.com/emlync",
+			              "linkedin": "https://www.linkedin.com/in/emlynclay",
+			              "personal_website": "http://emlynclay.co.uk",
+			              "image": "images/emlyn.png"
+			            }
+						 ]};
+
+ var organisers = { "data": [{"name": "Ruby Childs",
+ 			             "twitter": "rubychilds",
+ 			             "github": "https://github.com/rubychilds",
+ 			             "linkedin": "https://www.linkedin.com/in/rubychilds1",
+ 			             "personal_website": "http://rubychilds.com/",
+ 			             "image": "images/ruby.png"},
+
+ 			            {"name": "Graham Markall",
+ 			             "twitter": "gmarkall",
+ 			             "github": "https://github.com/gmarkall",
+ 			             "linkedin": "https://www.linkedin.com/in/graham-markall-0087a215",
+ 			             "personal_website": "http://www.big-grey.co.uk",
+ 			             "image": "images/graham.png"},
+
+ 			            {"name": "Ian Ozsvald",
+ 			            "twitter": "ianozsvald",
+ 			            "github": "https://github.com/ianozsvald/",
+ 			            "linkedin": "http://www.linkedin.com/in/ianozsvald",
+ 			            "personal_website": "http://ianozsvald.com/",
+ 			            "image": "images/ian.png"},
+
+ 			            {"name": "Emlyn Clay",
+ 			              "twitter": "emlynclay",
+ 			              "github": "https://github.com/emlync",
+ 			              "linkedin": "https://www.linkedin.com/in/emlynclay",
+ 			              "personal_website": "http://emlynclay.co.uk",
+ 			              "image": "images/emlyn.png"
+ 			            },
+ 			            {"name": "Priya Gogna",
+ 			            "github": "https://github.com/pri9",
+ 			            "linkedin": "https://uk.linkedin.com/in/priyagogna",
+ 			            "twitter": "hello_kepler22b",
+ 			            "personal_website": "",
+ 			            "image": "images/priya.png"
+ 			          }
+ 			]};
 
 $(function(){
-		GetCommittee();
+		GetCommittee(organisers["data"], '.organisers');
+		GetCommittee(committee["data"], '.reviewers');
+		GetCommittee(chairs["data"], '.chairs');
 });
 
 function Edit(elm){
@@ -117,11 +171,10 @@ function Url(elem){
   open($(elem).attr('href'));
 }
 
-function GetCommittee(){
-			data = committee["data"];
+function GetCommittee(data, well_name){
 			var itemsPerRow = 4;
 		  var div = $('<div>').attr('class', 'row');
-		  var well = $('.reviewers').empty();
+		  var well = $(well_name).empty();
 			var container = $('<div>').attr({'class':"center-block container"});
 		  for (var i = 0; i < data.length; i++) {
 		  	var mainDiv = CreateThumb(i, data[i].name, data[i].bio, data[i].email, data[i].twitter,

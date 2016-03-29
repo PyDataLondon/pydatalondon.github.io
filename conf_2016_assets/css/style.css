@@ -12,11 +12,8 @@ p.small {
 }
 
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+.portfolio-item .portfolio-link .caption .caption-content h3, .portfolio-item .portfolio-link .caption .caption-content h4
+{
     font-family: "HelveticaNeue-Light",
                  "Helvetica Neue Light",
                  "Helvetica Neue",
@@ -45,16 +42,7 @@ a href {
 
 .img-centered {
     margin: 0 auto;
-}
-
-#welcome {
-    width:100%;
-    height:100%;
-    background:  #e41f1e; /* fallback for old browsers */
-    background-color:  #e41f1e;
-    background: -webkit-linear-gradient(to bottom, #e41f1e, #85f9c8); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #e41f1e, #85f9c8);
-}
+}ß
 
 #portfolio{
     width:100%;
