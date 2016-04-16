@@ -5,20 +5,20 @@ var committee = { "data": [{"name": "Ruby Childs",
 			             "personal_website": "http://rubychilds.com/",
 			             "image": "images/ruby.png"},
 
-			            {"name": "Elena Chatzimichali",
-			             "twitter": "eaHatz",
-			             "github": "",
-			             "linkedin": "https://uk.linkedin.com/in/eachatzimichali",
-			             "personal_website": "",
-			             "image": "images/elena.png"
-			            },
-
 			            {"name": "Graham Markall",
 			             "twitter": "gmarkall",
 			             "github": "https://github.com/gmarkall",
 			             "linkedin": "https://www.linkedin.com/in/graham-markall-0087a215",
 			             "personal_website": "http://www.big-grey.co.uk",
 			             "image": "images/graham.png"},
+
+	 			          {"name": "Priya Gogna",
+	 			            "github": "https://github.com/pri9",
+	 			            "linkedin": "https://uk.linkedin.com/in/priyagogna",
+	 			            "twitter": "hello_kepler22b",
+	 			            "personal_website": "",
+	 			            "image": "images/priya.png"
+	 			          },
 
 			            {"name": "Ian Ozsvald",
 			            "twitter": "ianozsvald",
@@ -59,14 +59,6 @@ var committee = { "data": [{"name": "Ruby Childs",
 			              "image": "images/emlyn.png"
 			            },
 
-			            {"name": "Daniel Slater",
-			              "twitter": "danielslaterish",
-			              "github": "https://github.com/DanielSlater/",
-			              "linkedin": "https://uk.linkedin.com/in/daniel-slater-3032a016",
-			              "personal_website": "www.danielslater.net",
-			              "image": "images/daniel.png"
-			            },
-
 			            {"name": "Linda Uruchurtu",
 			              "twitter": "lindauruchurtu",
 			              "github": "",
@@ -75,13 +67,13 @@ var committee = { "data": [{"name": "Ruby Childs",
 			              "image": "images/linda.png"
 			            },
 
-			            {"name": "Priya Gogna",
-			            "github": "https://github.com/pri9",
-			            "linkedin": "https://uk.linkedin.com/in/priyagogna",
-			            "twitter": "hello_kepler22b",
-			            "personal_website": "",
-			            "image": "images/priya.png"
-			          },
+									{"name": "Daniel Slater",
+										"twitter": "danielslaterish",
+										"github": "https://github.com/DanielSlater/",
+										"linkedin": "https://uk.linkedin.com/in/daniel-slater-3032a016",
+										"personal_website": "www.danielslater.net",
+										"image": "images/daniel.png"
+									},
 
 			          {"name": "Maria Lehl",
 			            "github": "",
@@ -97,7 +89,14 @@ var committee = { "data": [{"name": "Ruby Childs",
 			            "twitter": "gilesweaver",
 			            "personal_website": "",
 			            "image": "images/giles.png"
-			          }
+			          },
+		            {"name": "Elena Chatzimichali",
+		             "twitter": "eaHatz",
+		             "github": "",
+		             "linkedin": "https://uk.linkedin.com/in/eachatzimichali",
+		             "personal_website": "",
+		             "image": "images/elena.png"
+		            }
 			]};
 
 var chairs = {"data": [
@@ -116,12 +115,7 @@ var chairs = {"data": [
 			            }
 						 ]};
 
- var organisers = { "data": [{"name": "Ruby Childs",
- 			             "twitter": "rubychilds",
- 			             "github": "https://github.com/rubychilds",
- 			             "linkedin": "https://www.linkedin.com/in/rubychilds1",
- 			             "personal_website": "http://rubychilds.com/",
- 			             "image": "images/ruby.png"},
+ var organisers = { "data": [
 
  			            {"name": "Graham Markall",
  			             "twitter": "gmarkall",
@@ -137,6 +131,13 @@ var chairs = {"data": [
  			            "personal_website": "http://ianozsvald.com/",
  			            "image": "images/ian.png"},
 
+									{"name": "Ruby Childs",
+			             "twitter": "rubychilds",
+			             "github": "https://github.com/rubychilds",
+			             "linkedin": "https://www.linkedin.com/in/rubychilds1",
+			             "personal_website": "http://rubychilds.com/",
+			             "image": "images/ruby.png"},
+
  			            {"name": "Emlyn Clay",
  			              "twitter": "emlynclay",
  			              "github": "https://github.com/emlync",
@@ -150,7 +151,35 @@ var chairs = {"data": [
  			            "twitter": "hello_kepler22b",
  			            "personal_website": "",
  			            "image": "images/priya.png"
- 			          }
+ 			          },
+								{"name": "Florian Rathgeber",
+								"github": "",
+								"linkedin": "https://uk.linkedin.com/in/florianrathgeber",
+								"twitter": "frathgeber",
+								"personal_website": "https://kynan.github.io/",
+								"image": "images/florian.png"
+							},
+							{"name": "Calvin Giles",
+							"github": "",
+							"linkedin": "https://uk.linkedin.com/in/calvingiles",
+							"twitter": "calvingiles",
+							"personal_website": "http://untangleconsulting.io/",
+							"image": "images/calvin.png"
+						},
+						{"name": "Cecilia Liao",
+						"github": "",
+						"linkedin": "https://uk.linkedin.com/in/cecilialiao",
+						"twitter": "cecilialiao",
+						"personal_website": "https://about.me/cecilia.liao",
+						"image": "images/cecilia.png"
+						},
+							{"name": "Steve Holden",
+							"github": "",
+							"linkedin": "https://uk.linkedin.com/in/holdenweb",
+							"twitter": "holdenweb",
+							"personal_website": "http://holdenweb.blogspot.co.uk/",
+							"image": "images/steve.png"
+						}
  			]};
 
 $(function(){
