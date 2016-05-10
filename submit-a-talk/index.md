@@ -17,5 +17,5 @@ and let's get you on the stage!
 
 ## Speaking at PyData London Conferences
 
-Request for proposal will open about 3 months before the conference. Our [next
-conference](http://pydata.org/london2016/) will take place in 2017 - watch this space!
+Request for proposal will open about 3 months before the conference. Our next
+conference will take place in 2017 - watch this space!
