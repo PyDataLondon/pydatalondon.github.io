@@ -4,10 +4,6 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
-[![PyData London 2016](http://pydata.org/london2016/static/images/banner-london2016.jpg)](http://pydata.org/london2016)
-
----
-
 # PyData London
 
 ## London's community for developers and users of Python data tools
