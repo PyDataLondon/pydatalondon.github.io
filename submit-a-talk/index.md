@@ -18,7 +18,4 @@ and let's get you on the stage!
 ## Speaking at PyData London Conferences
 
 Request for proposal will open about 3 months before the conference. Our [next
-conference](http://pydata.org/london2016/) will take place 6-8 May, 2016 at
-the Bloomberg office in central London.
-
-The [Call for Proposals](http://pydata.org/london2016/cfp/) is now open!
+conference](http://pydata.org/london2016/) will take place in 2017 - watch this space!
