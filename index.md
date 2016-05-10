@@ -4,17 +4,7 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
----
-
-## [PyData London 2016 Call for Proposals](http://pydata.org/london2016/cfp/) is open!
-
 [![PyData London 2016](http://pydata.org/london2016/static/images/banner-london2016.jpg)](http://pydata.org/london2016)
-
-# [PyData London 2016 Conference](http://pydata.org/london2016)
-
-## 6-8 May 2016
-
-## Hosted by Bloomberg
 
 ---
 
