@@ -5,10 +5,14 @@ title: Past events
 ---
 
 ### Past Conferences
+* 2016 Conference @ Bloomberg - [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qfJkoiFj-hN7lSHgQzXtqQ)
 * 2015 Conference @ Bloomberg - [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0q6hrjJA56bq18eHtGusYJK)
 * 2014 Conference @ Level 39 - [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pKUUMthfbXufGxA5avFRWt)
 
 ### Past Meetups
+* 22nd Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/229812826/)
+* 21st Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/228736968/)
+* 20th Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/228083800/)
 * 19th Meetup - Deep Learning - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/227267769/)
 * 18th Meetup - Christmas Special - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/226630793/)
 * 17th Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/226075998/)
