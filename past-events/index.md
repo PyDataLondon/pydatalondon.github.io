@@ -10,7 +10,7 @@ title: Past events
 * 2014 Conference @ Level 39 - [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pKUUMthfbXufGxA5avFRWt)
 
 ### Past Meetups
-* 29th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/235429712)
+* 29th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/235429712/)
 * 28th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234828438/)
 * 27th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234100340/)
 * 26th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/233441395/)
