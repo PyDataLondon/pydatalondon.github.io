@@ -14,6 +14,7 @@ title: Past events
 * 28th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234828438/)
 * 27th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234100340/)
 * 26th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/233441395/)
+  * Pav Andriychenko on Jupyter Web Apps and other Jovian tricks: [slides](https://github.com/rs2/pydata-sep-2016-talk/blob/master/docker/notebooks/slides.ipynb) and [docker](https://github.com/rs2/pydata-sep-2016-talk/tree/master/docker)
 * 25th Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/232533453/)
   * Matt Cloke and Narendra Tumkur on [The Science and Art of Systems Engineering](https://github.com/clokey/pydata_london_meetup/)
   * Yaz Santissi on [Image Recognition with TensorFlow using Python](http://www.slideshare.net/YazSantissi/image-recognition-with-tensorflow)
