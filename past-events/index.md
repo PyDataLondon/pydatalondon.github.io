@@ -10,6 +10,10 @@ title: Past events
 * 2014 Conference @ Level 39 - [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pKUUMthfbXufGxA5avFRWt)
 
 ### Past Meetups
+* 29th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/235429712/)
+* 28th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234828438/)
+* 27th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/234100340/)
+* 26th Meetup - [meetup page](https://www.meetup.com/PyData-London-Meetup/events/233441395/)
 * 25th Meetup - [meetup page](http://www.meetup.com/PyData-London-Meetup/events/232533453/)
   * Matt Cloke and Narendra Tumkur on [The Science and Art of Systems Engineering](https://github.com/clokey/pydata_london_meetup/)
   * Yaz Santissi on [Image Recognition with TensorFlow using Python](http://www.slideshare.net/YazSantissi/image-recognition-with-tensorflow)
