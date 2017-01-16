@@ -52,4 +52,10 @@ title: Past events
 * [4th Meetup](http://www.meetup.com/PyData-London-Meetup/events/201507442/) - Data Mining for Good and High Performance Python
 * [3rd Meetup](http://www.meetup.com/PyData-London-Meetup/events/195016072/)
 * [2nd Meetup](http://www.meetup.com/PyData-London-Meetup/events/189541462/)
-* [1st Meetup](http://www.meetup.com/PyData-London-Meetup/events/179396812/) - Celebratory First Meetup
+* [1st Meetup](http://www.meetup.com/PyData-London-Meetup/events/179396812/) - June 3 2014 - Celebratory First Meetup
+  * [Pete Passaro](https://twitter.com/NousExMachina) - *From the algorithm to the visualisation: Creating full stack artificial intelligence and language processing platforms with Python*
+  * [Emlyn Clay](https://twitter.com/emlynclay) - *Python as an alternative to MATLAB in life sciences: transliterating your experiments and interfacing hardware*
+  * Chipp Jansen - *Kinect and Stone: auto-sculpting using Python and a Kinect scanner*
+  * [Ian Huston](https://twitter.com/ianhuston) (Pivotal Labs Host) - *Introducing Pivotal's open source stack (including Redis)*
+  * Jacqui Taylor - *Mapping the Future: taking Python to the next level for Data Visualisation and Web Science*
+  * [Giles Greenway](http://big-social-data.net) - [*Twitter Community Extraction: Beware of geeks bearing .gifs*](http://www.slideshare.net/kingsBSD/twitter-35215472) ([code](https://github.com/kingsBSD/), [Android app](http://kingsbsd.github.io/MobileMiner/))
