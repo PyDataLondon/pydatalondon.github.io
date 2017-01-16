@@ -51,7 +51,11 @@ title: Past events
 * [5th Meetup](http://www.meetup.com/PyData-London-Meetup/events/206993792/) - Julia & genetic analysis
 * [4th Meetup](http://www.meetup.com/PyData-London-Meetup/events/201507442/) - Data Mining for Good and High Performance Python
 * [3rd Meetup](http://www.meetup.com/PyData-London-Meetup/events/195016072/)
-* [2nd Meetup](http://www.meetup.com/PyData-London-Meetup/events/189541462/)
+* [2nd Meetup](http://www.meetup.com/PyData-London-Meetup/events/189541462/) - July 1 2014
+  * [Kyran Dale](http://kyrandale.com) - *Getting your Python data onto a Browser*
+  * Laurie Clark-Michalek - [*DOTA Analysis: Using Python to provide insight into professional DOTA2 matches*](http://www.generictestdomain.net/pydata_july.slides.html)
+  * Sam Colvin - [*Julia by Example*](http://nbviewer.ipython.org/github/samuelcolvin/julia-slideshow/blob/master/Lightning%20Julia.ipynb)
+  * [Ian Taylor](http://www.flyingbinary.com) - *Where am I? Geospatial processing with Python*
 * [1st Meetup](http://www.meetup.com/PyData-London-Meetup/events/179396812/) - June 3 2014 - Celebratory First Meetup
   * [Pete Passaro](https://twitter.com/NousExMachina) - *From the algorithm to the visualisation: Creating full stack artificial intelligence and language processing platforms with Python*
   * [Emlyn Clay](https://twitter.com/emlynclay) - *Python as an alternative to MATLAB in life sciences: transliterating your experiments and interfacing hardware*
