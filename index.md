@@ -6,7 +6,7 @@ title: Welcome to PyData London!
 
 ## PyData London Conference 2017
 
-We are pleased to announce that the Pydata London Conference will be held over the weekend of 5-7 May. For more details, please head over to our [conference website](http://pydata.org/london2017/). We are currently accepting talk proposals until 24 February, 2017. 
+We are pleased to announce that the Pydata London Conference will be held over the weekend of 5-7 May. Our call for proposal has now closed, and the review committee is busily putting together a fantastic schedule for this year's conference. We will announce speakers and ticket sales soon - watch this space!
 
 ## About us
 
