@@ -19,6 +19,7 @@ PyData London meetups are put together by the following volunteers:
 * Emlyn Clay - [Twitter](https://twitter.com/emlynclay)
 * Florian Rathgeber - [Twitter](https://twitter.com/frathgeber) - [Blog](https://kynan.github.io)
 * Ian Ozsvald - [Twitter](https://twitter.com/ianozsvald) - [Blog](http://ianozsvald.com/)
+* Marco Bonzanini - [Twitter](https://twitter.com/marcobonzanini) - [Blog](https://marcobonzanini.com/)
 * Prashant Tiwari
 * Priya Gogna - [Twitter](https://twitter.com/hello_kepler22b)
 * Ruby Childs - [Twitter](https://twitter.com/RubyChilds)
