@@ -45,6 +45,14 @@ title: Past events
 * [15th Meetup](http://www.meetup.com/PyData-London-Meetup/events/224422193/)
 * [14th Meetup](http://www.meetup.com/PyData-London-Meetup/events/223922716/)
 * [13th Meetup](http://www.meetup.com/PyData-London-Meetup/events/223254354/)
+  * [James Blackburn](https://www.linkedin.com/in/jbblackburn) - *High-performance IoT and financial data storage with Python and MongoDB*
+    ([slides](http://www.slideshare.net/JamesBlackburn1/2015-pydata-highperformance-iot-and-financial-data-storage-with-python-and-mongodb),
+    [demo](https://github.com/manahl/arctic/blob/master/howtos/201507_demo_pydata.py),
+    [GitHub](https://github.com/manahl/arctic))
+  * [Moreno Bonaventura](https://www.linkedin.com/in/morenobonaventura) - *Network analysis of large time-varying graphs with [NetworkL](http://networkl.github.io)*
+    ([slides](https://github.com/morenobonaventura/networkl_material))
+  * [Robert Johnson](http://sporting-advantage.co.uk) - *Modelling Tennis* ([slides](http://www.sporting-advantage.co.uk/presentations/pydata_tennis_july_2015.pdf))
+  * [David R. MacIver](http://www.drmaciver.com) - *Hypothesis Testing* ([slides](http://bit.ly/testing-algorithmic-robustness))
 * [12th Meetup](http://www.meetup.com/PyData-London-Meetup/events/221724779/)
 * [11th Meetup](http://www.meetup.com/PyData-London-Meetup/events/221123220/)
 * [10th Meetup](http://www.meetup.com/PyData-London-Meetup/events/220345202/)
