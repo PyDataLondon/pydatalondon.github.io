@@ -1,7 +1,7 @@
 ---
 layout: page_full
 featimg: on_stage.jpg
-title: Past events
+title: Meetups
 ---
 
 * [33rd Meetup](https://www.meetup.com/PyData-London-Meetup/events/238441890/)
