@@ -4,6 +4,16 @@ featimg: on_stage.jpg
 title: Meetups
 ---
 
+* [35th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240813803/)
+  * Richard J Brooker on AI & ART - Style Transfer
+  * Saeed Amen on Using Python in financial markets
+  * Won Bae Suh on Arms for Sale: UK Bazzar in the 21st Century
+  * Calvin Giles on The PyData London Lottery
+* [34th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240131911/)
+  * John Sandall on [SixFifty's Story: Why Are UK Elections So Hard To Predict]?(https://speakerdeck.com/john_sandall/pydata-june-6th-introducing-sixfifty)
+  * Alexey Simonov on [Open Sourcing Self-Driving Cars](https://github.com/asimonov/PyData-London-SDC-Behavioural-Cloning)
+  * Sanaz Vafaei with [A lightning tour of Folium](https://github.com/sanazv/pydata_folium_demo)
+  * Dominik Christ on AHL's Open sourced visualization framework [PyBloqs](https://github.com/manahl/PyBloqs)
 * [33rd Meetup](https://www.meetup.com/PyData-London-Meetup/events/238441890/)
 * [32nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/237911086/)
 * [31st Meetup](https://www.meetup.com/PyData-London-Meetup/events/237151558/)
