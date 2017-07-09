@@ -5,18 +5,29 @@ title: Meetups
 ---
 
 * [35th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240813803/)
-  * Richard J Brooker on AI & ART - Style Transfer
-  * Saeed Amen on Using Python in financial markets
-  * Won Bae Suh on Arms for Sale: UK Bazzar in the 21st Century
+  * Richard J Brooker on [AI & ART - Style Transfer](https://www.youtube.com/watch?v=U1vb-NI9sKE)
+  * Saeed Amen on [Using Python in financial markets](https://www.meetup.com/PyData-London-Meetup/events/240813803/comments/481296769/)
   * Calvin Giles on The PyData London Lottery
 * [34th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240131911/)
-  * John Sandall on [SixFifty's Story: Why Are UK Elections So Hard To Predict]?(https://speakerdeck.com/john_sandall/pydata-june-6th-introducing-sixfifty)
+  * John Sandall on [SixFifty's Story: Why Are UK Elections So Hard To Predict?](https://speakerdeck.com/john_sandall/pydata-june-6th-introducing-sixfifty)
   * Alexey Simonov on [Open Sourcing Self-Driving Cars](https://github.com/asimonov/PyData-London-SDC-Behavioural-Cloning)
   * Sanaz Vafaei with [A lightning tour of Folium](https://github.com/sanazv/pydata_folium_demo)
   * Dominik Christ on AHL's Open sourced visualization framework [PyBloqs](https://github.com/manahl/PyBloqs)
 * [33rd Meetup](https://www.meetup.com/PyData-London-Meetup/events/238441890/)
+  * Ju Liu on [Predicting Titanic survivors with machine learning](https://github.com/Arkham/jack-dies)
+  * Egor Kraev on [Asynchronous and streaming Python for real-time analytics](https://www.slideshare.net/EgorKraev/streaming-analytics-with-python-and-kafka)
+  * Celine Boudier on [Dashboard for Code For Life education tools data with Google Data Studio Beta](https://www.slideshare.net/CelineBoudier/how-to-make-data-more-human-with-data-studio-code-for-life)
+  * Matti Lyra on [Hands on with GloVes](https://github.com/mattilyra/glove2h5)
+  * Adam Hill on [Building a graph model of corporate ownership data to uncover potential corruption](http://www.slideshare.net/AdamHill10/diving-into-uk-corporation-ownership-with-neo4j)
 * [32nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/237911086/)
+  * [Daniel Moisset](https://twitter.com/dmoisset) on [Bridging the Gap: from Data Science to Service](https://www.slideshare.net/dmoisset/bridging-the-gap-from-data-science-to-service)
+  * [Ole Moeller-Nilsson](https://twitter.com/olly_mn) on [Finding planets with Python](http://www.slideshare.net/OleMoellerNilsson/pydata-lonon-finding-planets-with-python)
+  * Won Bae Suh on [Data Evangelism in the Python Community](https://www.slideshare.net/WonbaeSuh/python-and-data-evangelism)
+  * Elena Nemtseva on [GraphFrames - Graph queries in PySpark](https://speakerdeck.com/_lena_/grapframes-for-faster-data-science-prototypes-in-pyspark)
 * [31st Meetup](https://www.meetup.com/PyData-London-Meetup/events/237151558/)
+  * [Jason McFall](https://twitter.com/JasonMcFall) on [Privacy and data science](https://speakerdeck.com/mcfall/privacy-and-data-science-pydata-london)
+  * [Andraz Hribernik](https://twitter.com/ahribo) on [NLP In 10 Lines of Code](http://www.slideshare.net/AndraHribernik/nlp-in-10-lines-of-code)
+  * [Lev Konstantinovskiy](https://twitter.com/teagermylk) on [NLP in Python: next gen of word embeddings](https://speakerdeck.com/tmylk/get-the-text-similarity-you-need-with-word-embeddings)
 * [30th Meetup](https://www.meetup.com/PyData-London-Meetup/events/236523797/)
 * [29th Meetup](https://www.meetup.com/PyData-London-Meetup/events/235429712/)
 * [28th Meetup](https://www.meetup.com/PyData-London-Meetup/events/234828438/)
