@@ -6,7 +6,7 @@ title: Meetups
 
 * [35th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240813803/)
   * Richard J Brooker on [AI & ART - Style Transfer](https://www.youtube.com/watch?v=U1vb-NI9sKE)
-  * Saeed Amen on [Using Python in financial markets](https://www.meetup.com/PyData-London-Meetup/events/240813803/comments/481296769/)
+  * Saeed Amen on Using Python in Financial Markets. [GitHub](https://github.com/cuemacro), [examples](https://github.com/cuemacro/finmarketpy/tree/master/finmarketpy_examples), [additional content](https://www.meetup.com/PyData-London-Meetup/events/240813803/comments/481296769/)
   * Calvin Giles on The PyData London Lottery
 * [34th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240131911/)
   * John Sandall on [SixFifty's Story: Why Are UK Elections So Hard To Predict?](https://speakerdeck.com/john_sandall/pydata-june-6th-introducing-sixfifty)
