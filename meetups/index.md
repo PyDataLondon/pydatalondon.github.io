@@ -3,7 +3,12 @@ layout: page_full
 featimg: on_stage.jpg
 title: Meetups
 ---
-
+* [36th Meetup](https://www.meetup.com/PyData-London-Meetup/events/241328584/)
+  * [Stefanie Posavec](http://www.stefanieposavec.co.uk/) on Dear Data
+  * [Dominik Christ](https://github.com/DominikMChrist) on Integrating ReadTheDocs in your open source project
+  * Tariq Rashid on First Steps With PyTorch
+  * [Tushar Sharma](http://zeg.ai/) on Unsupervised 3D reconstruction from images using WGAN
+  * Ishan Dikshit on Resources to start your deep learning & NLP side project
 * [35th Meetup](https://www.meetup.com/PyData-London-Meetup/events/240813803/)
   * Richard J Brooker on [AI & ART - Style Transfer](https://www.youtube.com/watch?v=U1vb-NI9sKE)
   * Saeed Amen on Using Python in Financial Markets. [GitHub](https://github.com/cuemacro), [examples](https://github.com/cuemacro/finmarketpy/tree/master/finmarketpy_examples), [additional content](https://www.meetup.com/PyData-London-Meetup/events/240813803/comments/481296769/)
