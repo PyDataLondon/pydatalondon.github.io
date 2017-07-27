@@ -5,7 +5,7 @@ title: Meetups
 ---
 
 * [36th Meetup](https://www.meetup.com/PyData-London-Meetup/events/241328584/)
-  * [Stefanie Posavec](http://www.stefanieposavec.co.uk/) on Dear Data
+  * [Stefanie Posavec](http://www.stefanieposavec.co.uk/) of Dear Data
   * [Dominik Christ](https://github.com/DominikMChrist) on Integrating ReadTheDocs in your open source project
   * Tariq Rashid on First Steps With PyTorch
   * [Tushar Sharma](http://zeg.ai/) on Unsupervised 3D reconstruction from images using WGAN
