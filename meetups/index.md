@@ -4,6 +4,16 @@ featimg: on_stage.jpg
 title: Meetups
 ---
 
+* [38th Meetup](https://www.meetup.com/PyData-London-Meetup/events/243584161/)
+  * Andrew Stretton on [Frictionless Data, Frictionless Development](https://gitpitch.com/strets123/frictionless-pres#/)
+  * Slawomir Tulski on [Robust extraction of web data with Python](https://github.com/tulski-s/pydata_london_38/blob/master/Robust_extraction_of_web_data_with_Python.ipynb)
+  * Miroslav Batchkarov on [PyOrbital](https://github.com/skimit/orbital)
+  * Michal Mucha on [Reducing runtimes with Cython](https://twitter.com/jeremimucha/status/915618089244512261)
+* [37th Meetup](https://www.meetup.com/PyData-London-Meetup/events/242661694/)
+  * Ed Cannon on [How to choose the right social media Influencer](https://www.slideshare.net/eoc21/pydata-influencer-validation/1)
+  * Karim Chine on RosettaHUB: A universal platform for open data science in the cloud
+  * Oliver Parson on Energy disaggregation
+  * Ryan Varley on [Feature importances in random forests](https://www.dropbox.com/s/31nkm0yab2odvx9/PyData-Feature%20Importances.pdf?dl=0)
 * [36th Meetup](https://www.meetup.com/PyData-London-Meetup/events/241328584/)
   * [Stefanie Posavec](http://www.stefanieposavec.co.uk/) of Dear Data
   * [Dominik Christ](https://github.com/DominikMChrist) on Integrating ReadTheDocs in your open source project
