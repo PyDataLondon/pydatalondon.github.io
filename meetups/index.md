@@ -4,6 +4,11 @@ featimg: on_stage.jpg
 title: Meetups
 ---
 
+* [39th Meetup](https://www.meetup.com/PyData-London-Meetup/events/244401841/)
+  * Dhruv Ghulati on Automated Fact Checking - Technical Approaches and Challenges
+  * Amit Kumar on Data Pipelining with [Luigi](https://github.com/spotify/luigi)
+  * Parul Sethi on Visual Analysis of Topic Models
+  * Chenfu Wang on [pyexcel](https://github.com/pyexcel/pyexcel)
 * [38th Meetup](https://www.meetup.com/PyData-London-Meetup/events/243584161/)
   * Andrew Stretton on [Frictionless Data, Frictionless Development](https://gitpitch.com/strets123/frictionless-pres#/)
   * Slawomir Tulski on [Robust extraction of web data with Python](https://github.com/tulski-s/pydata_london_38/blob/master/Robust_extraction_of_web_data_with_Python.ipynb)
