@@ -4,6 +4,19 @@ featimg: on_stage.jpg
 title: Meetups
 ---
 
+* [42nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/246992774/)
+  * Soledad Galli on [Feature Engineering for Machine Learning](https://speakerdeck.com/solegalli/feature-engineering-for-machine-learning)
+  * Richard J Brooker on Trump, Alzheimer's and AI
+  * James Salsman on [Intelligibility Prediction for Pronunciation Remediation](http://j.mp/irslides)
+* [41st Meetup](https://www.meetup.com/PyData-London-Meetup/events/246267075/)
+  * Sumanas Sarma on [word2vec encodings to build a movie recommendation app](https://docs.google.com/presentation/d/1N8sd22GG3rrGRdUntijIkDwbBQKVKzE_88tJjWqxixU/edit#slide=id.p)
+  * James Lumley on Will Python eat Biotech?
+  * [Robin Cole](https://twitter.com/robmarkcole) on [Data science in the home with Home-assistant](https://github.com/home-assistant/home-assistant-assets/blob/master/english/2018-pydata-London/Presentation%20HASS%20pydata%20Robin%20v2.pdf)
+  * [Jonathan Street](http://jonathanstreet.com) on [Applying Deep Learning to Histology Images](https://jonathanstreet.com/media/PyDataLondon2018/#/)
+* [40th Meetup](https://www.meetup.com/PyData-London-Meetup/events/245352028/)
+  * Alexey Simonov on [Programming a self driving car using Python](https://gitpitch.com/asimonov/carla-brain?p=pydata-presentation#/)
+  * Víctor Zabalza on [Lens: Data exploration with Dask and Jupyter widgets](https://www.slideshare.net/VictorZabalza/lens-data-exploration-with-dask-and-jupyter-widgets)
+  * Gary Collier on Man AHL
 * [39th Meetup](https://www.meetup.com/PyData-London-Meetup/events/244401841/)
   * Dhruv Ghulati on Automated Fact Checking - Technical Approaches and Challenges
   * Amit Kumar on Data Pipelining with [Luigi](https://github.com/spotify/luigi)
