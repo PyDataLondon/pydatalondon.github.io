@@ -4,13 +4,13 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
-## PyData London Conference 2017
+## PyData London Conference 2018
 
-The [PyData London 2017 Conference](https://pydata.org/london2017/) was held over
-the weekend of 5-7 May at Bloomberg. 
-  * [Schedule](https://pydata.org/london2017/schedule/)
-  * [Recordings](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pAwbVAb1kUN3lV7ukhLL2k)
-  * [Photos](https://www.flickr.com/photos/pydata/albums/72157682159602660)
+The [PyData London 2018 Conference](https://pydata.org/london2018/) is going to
+be held over the weekend of 27-29 April at the Tower Hotel.
+
+[Tickets](https://www.eventbrite.com/e/pydata-london-2018-tickets-42541329261)
+are on sale now, the schedule will be published soon.
 
 ## About us
 
