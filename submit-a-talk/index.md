@@ -19,5 +19,5 @@ and let's get you on the stage!
 
 ## Speaking at PyData London Conferences
 
-Our next conference will take place in [May 2017](pydata.org/london2017/), hosted by Bloomberg! The Call for Proposal is now closed.
+Our next conference will take place in 2019, stay tuned!
 
