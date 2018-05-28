@@ -10,6 +10,7 @@ The [PyData London 2018 Conference](https://pydata.org/london2018/) was held
 over the weekend of 27-29 April at the Tower Hotel.
   * [schedule](https://pydata.org/london2018/schedule/)
   * [photos](https://www.flickr.com/photos/pydata/sets/72157693263374002)
+  * [videos](https://youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
 
 ## About us
 

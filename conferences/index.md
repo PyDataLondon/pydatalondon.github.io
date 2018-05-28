@@ -5,6 +5,7 @@ title: Conferences
 ---
 
 * [2018 Conference @ Bloomberg](https://pydata.org/london2018/)
+  * [videos](https://youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
   * [photos](https://www.flickr.com/photos/pydata/sets/72157693263374002)
 * [2017 Conference @ Bloomberg](https://pydata.org/london2017/)
   * [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pAwbVAb1kUN3lV7ukhLL2k)
