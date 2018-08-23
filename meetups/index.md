@@ -4,6 +4,30 @@ featimg: on_stage.jpg
 title: Meetups
 ---
 
+* [47th Meetup](https://www.meetup.com/PyData-London-Meetup/events/253060386/)
+  * Dinesh Vadhia on [Popping your Filter Bubble](https://speakerdeck.com/xyggy/pop-your-filter-bubble) ([video](https://www.youtube.com/watch?v=nbOQjn6Qfsg&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Marc Garcia on [Towards pandas 1.0](https://github.com/datapythonista/towards_pandas_1) ([video](https://www.youtube.com/watch?v=hK6o_TDXXN8&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * King Wong on [Forecasting Structural Breaks in Application to Algorithmic Trading](https://www.slideshare.net/KingvaderWong/forecasting-structural-breaks-with-application-to-algorithmic-trading) ([video](https://www.youtube.com/watch?v=-_vetNZjvpk&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Pushkal Agarwal on [How Do People Engage Online With Parliamentary Debates?](https://www.slideshare.net/secret/AYN9r6owAtjQtB) ([video](https://www.youtube.com/watch?v=fZIjmnzgQmw&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+* [46th Meetup](https://www.meetup.com/PyData-London-Meetup/events/252064028/)
+  * Jason Byrne on Digital Image Processing: Introduction and Applications ([video](https://www.youtube.com/watch?v=E2z2GtXWDSY&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Michael Craig on Machine Learning on molecular data ([video](https://www.youtube.com/watch?v=3HOulHAUhQw&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Raphael Holca on Mimica
+  * Peter Bleackley on Is it a mushroom or is it a toadstool
+* [45th Meetup](https://www.meetup.com/PyData-London-Meetup/events/249493003/)
+  * Trevor Sidery on Forecasting at scale using PySpark
+  * Philip Goddard on Revolutionise your Machine Learning Workflow with Scikit-Learn Pipelines ([video](https://www.youtube.com/watch?v=8ARL4ItrOQU&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Pavlos Mitsoulis-Ntompos on Sagify: Train/Deploy your models on AWS in a few simple steps ([video](https://www.youtube.com/watch?v=PKJD3uamwJM&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+  * Lucija Gregov on Making an open source contribution to sklearn ([video](https://www.youtube.com/watch?v=NZMnkM2OqaQ&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
+* [44th Meetup](https://www.meetup.com/PyData-London-Meetup/events/248973985/)
+  * Pavlos Mitsoulis-Ntompos & Stefano Bonetti on [Software engineering practices applied to ML](https://speakerdeck.com/svezfaz/software-engineering-practices-applied-to-ml)
+  * Péter Kovács on [Overview of neural network architectures in image processing](https://drive.google.com/open?id=0Byt-FK_28RMzTWlFYUNJWUQzZzZEQUlkdXg2RkpMaDdnaTdR)
+  * Ian Ozsvald on [pandas\_profiling](https://speakerdeck.com/ianozsvald/introducing-pandas-profiling-lightning-talk)
+  * Marc Garcia and Cheuk Ting Ho on [\#pandasSprint](https://docs.google.com/presentation/d/1QYq_w7O57BjPmEwuKCYwsEy_VGtD4aE7PLLKhVd4guo/edit?usp=drivesdk)
+* [43rd Meetup](https://www.meetup.com/PyData-London-Meetup/events/248070546/)
+  * Roma Klapaukh on [Snails by numbers](https://drive.google.com/open?id=1q_m9-WPXobYh7gmg6yV8068NKpfzlPAr)
+  * Robin Meehan on [Initial experiences with AWS Sagemaker](https://www.slideshare.net/RobinMeehan/aws-sagemaker-5minute-lightning-talk-at-pydata-london-march-2018)
+  * Steve Holden on [Teach Me JupyterLab](https://github.com/holdenweb/PyDataLondon53)
 * [42nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/246992774/)
   * Soledad Galli on [Feature Engineering for Machine Learning](https://speakerdeck.com/solegalli/feature-engineering-for-machine-learning)
   * Richard J Brooker on Trump, Alzheimer's and AI
