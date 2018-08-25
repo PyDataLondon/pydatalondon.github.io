@@ -4,7 +4,7 @@ featimg: on_stage.jpg
 title: Conferences
 ---
 
-* [2018 Conference @ Bloomberg](https://pydata.org/london2018/)
+* [2018 Conference @ The Tower Hotel](https://pydata.org/london2018/)
   * [videos](https://youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
   * [photos](https://www.flickr.com/photos/pydata/sets/72157693263374002)
 * [2017 Conference @ Bloomberg](https://pydata.org/london2017/)
