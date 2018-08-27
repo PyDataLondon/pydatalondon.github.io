@@ -14,16 +14,16 @@ You can also follow and get in touch with us
 
 PyData London meetups are put together by the following volunteers:
 
-* Aaron Critchley
-* Agata Brajdic
-* Cecilia Liao - [Twitter](https://twitter.com/cecilialiao) - [Blog](http://cecilialiao.com/)
+* Aaron Critchley - [GitHub](https://github.com/aaroncritchley) - [LinkedIn](https://www.linkedin.com/in/aaroncritchley/) - [Twitter](https://twitter.com/aaroncritchley) 
+* Agata Brajdic 
+* Cecilia Liao - [Blog](http://cecilialiao.com/) - [GitHub](https://github.com/cecilialiao) - [LinkedIn](https://www.linkedin.com/in/cecilialiao) - [Twitter](https://twitter.com/cecilialiao)
 * Emlyn Clay - [Twitter](https://twitter.com/emlynclay)
-* Florian Rathgeber - [Twitter](https://twitter.com/frathgeber) - [Blog](https://kynan.github.io)
-* Ian Ozsvald - [Twitter](https://twitter.com/ianozsvald) - [Blog](http://ianozsvald.com/)
-* Marco Bonzanini - [Twitter](https://twitter.com/marcobonzanini) - [Blog](https://marcobonzanini.com/)
+* Florian Rathgeber - [Blog](https://kynan.github.io) - [Twitter](https://twitter.com/frathgeber)
+* Ian Ozsvald - [Blog](http://ianozsvald.com/) - [GitHub](https://github.com/ianozsvald) - [LinkedIn](https://www.linkedin.com/in/ianozsvald) - [Twitter](https://twitter.com/ianozsvald) 
+* Marco Bonzanini - [Blog](https://marcobonzanini.com/) - [GitHub](https://github.com/bonzanini) - [LinkedIn](https://www.linkedin.com/in/marcobonzanini) - [Twitter](https://twitter.com/marcobonzanini)
 * Prashant Tiwari
 * Slavi Marinov - [Twitter](https://twitter.com/slavitweets)
-* Steve Holden - [Twitter](https://twitter.com/holdenweb) - [Blog](http://holdenweb.blogspot.co.uk/)
+* Steve Holden - [Blog](http://holdenweb.blogspot.co.uk/) - [Twitter](https://twitter.com/holdenweb)
 
 ## PyData London Alumni
 
