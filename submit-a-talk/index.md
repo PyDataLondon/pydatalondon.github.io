@@ -14,7 +14,7 @@ There's a few details to note:
 * We have 2 longer talks - 25 mins talk time & 5 mins Q&A
 * We have 2 or so 5 minute talks
 * All talks are timed, the lightning talks have a hard 5 minute limit, we have a hard exit time on the venue so please make sure you'll run to time (under-running is fine!)
-* Check the NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) - all language must be inclusionary, in particular try to avoid gendered reference (e.g. prefer something like 'folk' to 'guys')
+* Check the NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) - all language and imagery must be inclusionary, in particular try to avoid gendered reference (e.g. prefer something like 'folks' over 'guys')
 * No product pitches - we're strict about this - these aren't sales slots and the room is not populated by buyers
 * Your talk should educate, you're welcome to note 'we're hiring' or similar during your talk (that's a sensible quid-pro-quo for your company letting you write your talk whilst at work)
 
@@ -27,5 +27,5 @@ There's a few details to note:
 
 ## Speaking at PyData London Conferences
 
-Our next conference will take place in 2019, stay tuned!
+Our next conference will take place in 2020. Please watch for announces at the meetup and on the monthly update emails for the next Call for Proposals.
 
