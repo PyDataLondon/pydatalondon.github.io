@@ -4,6 +4,9 @@ featimg: on_stage.jpg
 title: Conferences
 ---
 
+* [2019 Conference @ The Tower Hotel](https://pydata.org/london2018/)
+  * [videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
+  * [photos](https://www.flickr.com/photos/pydata/albums/72157709819963207)
 * [2018 Conference @ The Tower Hotel](https://pydata.org/london2018/)
   * [videos](https://youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
   * [photos](https://www.flickr.com/photos/pydata/sets/72157693263374002)
