@@ -1,6 +1,6 @@
 ---
 layout: page_full
-featimg: on_stage.jpg
+featimg: pydata_london_meetup.jpg
 title: Meetups
 ---
 
