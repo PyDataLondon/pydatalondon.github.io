@@ -12,7 +12,7 @@ and let's get you on the stage!
 
 There's a few details to note:
 * We have 2 longer talks - 25 mins talk time & 5 mins Q&A
-* We have 2 or so 5 minute talks
+* We have 2 or so 5-minute talks
 * All talks are timed, the lightning talks have a hard 5 minute limit, we have
   a hard exit time on the venue so please make sure you'll run to time
   (under-running is fine!)
