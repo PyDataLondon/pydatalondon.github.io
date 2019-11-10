@@ -6,7 +6,7 @@ title: Welcome to PyData London!
 
 ## About the community
 
-The monthly meetups and annual conferences are put together by a group of volunteers passionate about python. Since 2014, we have provided Pythonistas in London a forum to learn from each other on the use of Python in the ever-evolving fields of data management, processing, analytics and visualisation.
+The monthly meetups and annual conferences are put together by a group of volunteers passionate about Python. Since 2014, we have provided Pythonistas in London a forum to learn from each other on the use of Python in the ever-evolving fields of data management, processing, analytics and visualisation.
 PyData London meetups take place on the first Tuesday of each month, currently under the generous sponsorship from AHL. 
 
 ## About the speakers
