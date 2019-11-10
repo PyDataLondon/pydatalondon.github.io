@@ -4,6 +4,10 @@ featimg: pydata_london_meetup.jpg
 title: Meetups
 ---
 
+* [48th Meetup](https://www.meetup.com/PyData-London-Meetup/events/254003548/)
+  * Jan Freyberg on [Humans can support algorithms - and vice versa - with the interactive python ecosystem](https://docs.google.com/presentation/d/1pOyg7mmUV7BAiaOWJ73CfzKzVdF__iQp7jIJ-LdAtEU/edit?usp=drivesdk)
+  ([video](https://youtu.be/5-AquILB8eI))
+  * Peadar Coyle on PyMC / Probabilistic Programming ([video](https://youtu.be/0kRytJZcHVw))
 * [47th Meetup](https://www.meetup.com/PyData-London-Meetup/events/253060386/)
   * Dinesh Vadhia on [Popping your Filter Bubble](https://speakerdeck.com/xyggy/pop-your-filter-bubble) ([video](https://www.youtube.com/watch?v=nbOQjn6Qfsg&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
   * Marc Garcia on [Towards pandas 1.0](https://github.com/datapythonista/towards_pandas_1) ([video](https://www.youtube.com/watch?v=hK6o_TDXXN8&list=PLGVZCDnMOq0qv-D5QN8gvfSyOLjrGMu9F))
