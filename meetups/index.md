@@ -4,7 +4,7 @@ featimg: pydata_london_meetup.jpg
 title: Meetups
 ---
 
- [60th Meetup](https://www.meetup.com/PyData-London-Meetup/events/265814300/)
+* [60th Meetup](https://www.meetup.com/PyData-London-Meetup/events/265814300/)
   * Tariq Rashid on [Trust, Ethics, and Safety in Data Science](https://tinyurl.com/y62uakmr) ([video](https://youtu.be/VBLB9uSTqf0))
   * Anders Bogsnes on [PyTorch in three chapters](https://github.com/andersbogsnes/pytorch_london)
 * [59th Meetup](https://www.meetup.com/PyData-London-Meetup/events/264949441/)
