@@ -3,7 +3,11 @@ layout: page_full
 featimg: pydata_london_meetup.jpg
 title: Meetups
 ---
-
+* [62nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/267356017/)
+  * Cheuk Ting Ho on "Are you supporting the right politician? - Graph Visualization of Voting Data"
+  * Oli Cairns on "Weight of Evidence Binning"
+* [61st Meetup](https://www.meetup.com/PyData-London-Meetup/events/266613828/)
+  * William Moy on "Full Fact update on Automated Fact-checking"
 * [60th Meetup](https://www.meetup.com/PyData-London-Meetup/events/265814300/)
   * Tariq Rashid on [Trust, Ethics, and Safety in Data Science](https://tinyurl.com/y62uakmr) ([video](https://youtu.be/VBLB9uSTqf0))
   * Anders Bogsnes on [PyTorch in three chapters](https://github.com/andersbogsnes/pytorch_london)
