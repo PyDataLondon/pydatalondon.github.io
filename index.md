@@ -13,7 +13,7 @@ title: Welcome to PyData London!
 
 ### Call for Proposals
 
-[Submit your proposals](https://pydata.org/london2022/cfp/) for a 30min conference talk or a 90min tutorial
+[Submit your proposals](https://pydata.org/london2022/present/) for a 30min conference talk or a 90min tutorial
 by 25 April 2022.
 
 ## About the community
