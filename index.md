@@ -4,18 +4,17 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
-## [PyData London 2020](https://pydata.org/london2020/)
+## [PyData London 2022](https://pydata.org/london2022/)
 
-15-17 May 2020, [The Tower Hotel](https://pydata.org/london2019/venue/), St. Katharine's Way, London E1W 1LD
+17-19 June 2022, [The Tower Hotel](https://pydata.org/london2022/venue/), St. Katharine's Way, London E1W 1LD
 
-Beginners Bootcamp, 14 May 2020, Wellcome Trust, 215 Euston Road, London NW1 2BE
 
-[Tickets](https://www.eventbrite.com/e/pydata-london-2020-tickets-89135319139)
+[Tickets](https://pydata.org/london2022/tickets/)
 
 ### Call for Proposals
 
-[Submit your proposals](https://pydata.org/london2020/cfp/) for a 30min conference talk or a 90min tutorial
-by 21 Feb.
+[Submit your proposals](https://pydata.org/london2022/cfp/) for a 30min conference talk or a 90min tutorial
+by 25 April 2022.
 
 ## About the community
 
