@@ -4,7 +4,7 @@ featimg: pydata_london2019_keynote.jpg
 title: Conferences
 ---
 
-* [2022 Conference @ The Tower Hotel](https://pydata.org/london2012/)
+* [2022 Conference @ The Tower Hotel](https://pydata.org/london2022/)
   * videos (published after the conference)
   * photos (published after the conference)
 * [2019 Conference @ The Tower Hotel](https://pydata.org/london2019/)
