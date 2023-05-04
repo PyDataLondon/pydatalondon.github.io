@@ -3,6 +3,11 @@ layout: page_full
 featimg: pydata_london_meetup.jpg
 title: Meetups
 ---
+
+A full history past events can be found on [Meetup.com](https://www.meetup.com/pydata-london-meetup/events/past/). 
+
+## Video Links
+
 * [62nd Meetup](https://www.meetup.com/PyData-London-Meetup/events/267356017/)
   * Cheuk Ting Ho on "Are you supporting the right politician? - Graph Visualization of Voting Data"
   * Oli Cairns on "Weight of Evidence Binning"
