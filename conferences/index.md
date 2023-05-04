@@ -4,6 +4,9 @@ featimg: pydata_london2019_keynote.jpg
 title: Conferences
 ---
 
+* [2023 Conference @ Leonardo Royal Tower Bridge](https://pydata.org/london2023/)
+  * videos (published after the conference)
+  * photos (published after the conference)
 * [2022 Conference @ The Tower Hotel](https://pydata.org/london2022/)
   * videos (published after the conference)
   * photos (published after the conference)

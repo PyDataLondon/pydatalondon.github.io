@@ -4,17 +4,11 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
-## [PyData London 2022](https://pydata.org/london2022/)
+## [PyData London 2023](https://pydata.org/london2023/)
 
-17-19 June 2022, [The Tower Hotel](https://pydata.org/london2022/venue/), St. Katharine's Way, London E1W 1LD
+2-4 June 2023, [Leonardo Royal Tower Bridge](https://www.leonardo-hotels.com/london/leonardo-royal-hotel-london-tower-bridge), 45 Prescot St, London E1 8GP.
 
-
-[Tickets](https://pydata.org/london2022/tickets/)
-
-### Call for Proposals
-
-[Submit your proposals](https://pydata.org/london2022/present/) for a 30min conference talk or a 90min tutorial
-by 25 April 2022.
+[Tickets](https://pydata.org/london2023/tickets/)
 
 ## About the community
 
