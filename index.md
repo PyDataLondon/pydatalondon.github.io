@@ -4,11 +4,19 @@ featimg: pydata_members.jpg
 title: Welcome to PyData London!
 ---
 
-## [PyData London 2023](https://pydata.org/london2023/)
+## Conference
+
+### [PyData London 2023](https://pydata.org/london2023/)
 
 2-4 June 2023, [Leonardo Royal Tower Bridge](https://www.leonardo-hotels.com/london/leonardo-royal-hotel-london-tower-bridge), 45 Prescot St, London E1 8GP.
 
-[Tickets](https://pydata.org/london2023/tickets/)
+### Tickets 
+
+Tickets are on sale here: [Tickets](https://pydata.org/london2023/tickets/)
+
+### Schedule
+
+The talks [scheduled for the conference is live](https://london2023.pydata.org/cfp/schedule/)
 
 ## About the community
 
