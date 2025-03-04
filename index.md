@@ -6,17 +6,17 @@ title: Welcome to PyData London!
 
 ## Conference
 
-### [PyData London 2023](https://pydata.org/london2023/)
+### [PyData London 2025](https://pydata.org/london2025/)
 
-Fri 2nd - Sun 4th June 2023, [Leonardo Royal Tower Bridge](https://www.leonardo-hotels.com/london/leonardo-royal-hotel-london-tower-bridge), 45 Prescot St, London E1 8GP.
+Fri 6th - Sun 8th June 2025, [Convene Sancroft, St. Paul's](https://convene.com/locations/london/sancroft-st-pauls/), Sancroft, Rose St, Paternoster Sq., London EC4M 7DQ.
 
 ### 🎟 Tickets 
 
-Tickets are on sale here: [Tickets](https://pydata.org/london2023/tickets/)
+Tickets are on sale here: [Tickets](https://ti.to/pydata/pydata-london-25)
 
 ### 📆 Schedule
 
-The talks [scheduled for the conference is live](https://london2023.pydata.org/cfp/schedule/)
+The CFP has now closed and the talks [will be announced here](https://pydata.org/london2025/cfp#talks)
 
 <br/>
 
@@ -42,7 +42,6 @@ Current organisers include:
 * Ian Ozsvald - [Blog](http://ianozsvald.com/) - [GitHub](https://github.com/ianozsvald) - [LinkedIn](https://www.linkedin.com/in/ianozsvald) - [Twitter](https://twitter.com/ianozsvald)
 * Jessica Walkenhorst - [LinkedIn](https://www.linkedin.com/in/jessica-walkenhorst/)
 * John Sandall - [LinkedIn](https://www.linkedin.com/in/johnsandall) - [Twitter](https://twitter.com/john_sandall) - [GitHub](https://github.com/john-sandall/)
-* Marie-Louise Annan - [LinkedIn](https://www.linkedin.com/in/marie-louise-annan-18776529/)
 * Prashant Tiwari - [LinkedIn](https://www.linkedin.com/in/prashanttiwari247/) - [Twitter](https://twitter.com/PT_247)
 
 Alumni organisers include:
@@ -52,5 +51,6 @@ Alumni organisers include:
 * Cecilia Liao - [Blog](http://cecilialiao.com/) - [GitHub](https://github.com/cecilialiao) - [LinkedIn](https://www.linkedin.com/in/cecilialiao) - [Twitter](https://twitter.com/cecilialiao)
 * Florian Rathgeber - [Blog](https://kynan.github.io) - [Twitter](https://twitter.com/frathgeber)
 * Marco Bonzanini - [Blog](https://marcobonzanini.com/) - [GitHub](https://github.com/bonzanini) - [LinkedIn](https://www.linkedin.com/in/marcobonzanini) - [Twitter](https://twitter.com/marcobonzanini)
+* Marie-Louise Annan - [LinkedIn](https://www.linkedin.com/in/marie-louise-annan-18776529/)
 * Slavi Marinov - [Twitter](https://twitter.com/slavitweets)
 * Steve Holden - [Blog](http://holdenweb.blogspot.co.uk/) - [Twitter](https://twitter.com/holdenweb)
