@@ -45,7 +45,7 @@ Current organisers include:
 * Emlyn Clay - [LinkedIn](https://www.linkedin.com/in/emlynclay/) - [GitHub](https://github.com/emlync)
 * Hugh Evans
 * Ian Ozsvald - [Blog](http://ianozsvald.com/) - [GitHub](https://github.com/ianozsvald) - [LinkedIn](https://www.linkedin.com/in/ianozsvald) - [Twitter](https://twitter.com/ianozsvald)
-* Jessica Walkenhorst - [LinkedIn](https://www.linkedin.com/in/jessica-walkenhorst/)
+* Jessica Walkenhorst - [LinkedIn](https://www.linkedin.com/in/jessica-walkenhorst/) - [Blog](walkenho.github.io) - [GitHub](https://github.com/walkenho)
 * Jiarui Cao
 * John Sandall - [LinkedIn](https://www.linkedin.com/in/johnsandall) - [Twitter](https://twitter.com/john_sandall) - [GitHub](https://github.com/john-sandall/)
 * Malgorzata Szeszo
