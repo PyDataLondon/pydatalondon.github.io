@@ -35,19 +35,32 @@ Behind the scene, unpaid volunteers organise the logistics and content of every 
 
 Current organisers include:
 
+* Alexandra Ross
+* Ama Bocanon
 * Amit Kumar - [Website](https://iamit.in/blog) - [GitHub](https://github.com/aktech) - [LinkedIn](https://www.linkedin.com/in/iaktech) - [Twitter](https://twitter.com/iaktech)
+* Andrew Weeks
 * Atharva Lad - [LinkedIn](https://www.linkedin.com/in/atharvalad/)
 * Cheuk Ting Ho - [Blog](https://cheuk.dev/) - [GitHub](https://github.com/Cheukting) - [LinkedIn](https://www.linkedin.com/in/cheukting-ho) - [Twitter](https://twitter.com/cheukting_ho) - [YouTube](https://www.youtube.com/%40cheuktingho)
-* Emlyn Clay - [Twitter](https://twitter.com/emlynclay) - [LinkedIn](https://www.linkedin.com/in/emlynclay/) - [GitHub](https://github.com/emlync) - [Twitter](https://twitter.com/emlynclay)
+* Elaine Xu
+* Emlyn Clay - [LinkedIn](https://www.linkedin.com/in/emlynclay/) - [GitHub](https://github.com/emlync)
+* Hugh Evans
 * Ian Ozsvald - [Blog](http://ianozsvald.com/) - [GitHub](https://github.com/ianozsvald) - [LinkedIn](https://www.linkedin.com/in/ianozsvald) - [Twitter](https://twitter.com/ianozsvald)
 * Jessica Walkenhorst - [LinkedIn](https://www.linkedin.com/in/jessica-walkenhorst/)
+* Jiarui Cao
 * John Sandall - [LinkedIn](https://www.linkedin.com/in/johnsandall) - [Twitter](https://twitter.com/john_sandall) - [GitHub](https://github.com/john-sandall/)
+* Malgorzata Szeszo
+* Paul Singh
 * Prashant Tiwari - [LinkedIn](https://www.linkedin.com/in/prashanttiwari247/) - [Twitter](https://twitter.com/PT_247)
+
+Conference Review Chair
+
+* Linda Uruchurtu
 
 Alumni organisers include:
 
 * Aaron Critchley - [GitHub](https://github.com/aaroncritchley) - [LinkedIn](https://www.linkedin.com/in/aaroncritchley/) - [Twitter](https://twitter.com/aaroncritchley)
 * Agata Brajdic
+* Calvin Giles
 * Cecilia Liao - [Blog](http://cecilialiao.com/) - [GitHub](https://github.com/cecilialiao) - [LinkedIn](https://www.linkedin.com/in/cecilialiao) - [Twitter](https://twitter.com/cecilialiao)
 * Florian Rathgeber - [Blog](https://kynan.github.io) - [Twitter](https://twitter.com/frathgeber)
 * Marco Bonzanini - [Blog](https://marcobonzanini.com/) - [GitHub](https://github.com/bonzanini) - [LinkedIn](https://www.linkedin.com/in/marcobonzanini) - [Twitter](https://twitter.com/marcobonzanini)
