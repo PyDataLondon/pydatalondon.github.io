@@ -1,0 +1,319 @@
+---
+layout: page_full
+title: PyData London Engineering Team
+description: Register your interest in joining the PyData London Engineering Team — a volunteer open-source squad building tooling to support PyData meetups and the conference.
+permalink: /engineering/
+---
+
+<div class="eng-intro">
+  <p>
+    We're starting a volunteer <strong>Engineering Team</strong>: an open-source squad
+    that builds the tooling behind PyData London — speaker pipelines, sponsor matching,
+    better comms and analytics, and open alternatives to the clunky SaaS we currently
+    rely on. If you'd like to help build the software that runs our meetups and
+    conference, we'd love to hear from you.
+  </p>
+  <p>
+    Pop your details in below and we'll be in touch. No prior open-source experience
+    needed — just curiosity and a few spare hours.
+  </p>
+</div>
+
+<form
+  id="eng-form"
+  class="eng-form"
+  action="{{ site.engineering_form_endpoint }}"
+  method="POST"
+>
+  <!-- Lets Formspree label the notification email -->
+  <input type="hidden" name="_subject" value="New Engineering Team sign-up">
+
+  <!-- Honeypot: real people leave this empty; bots tend to fill every field.
+       Formspree silently discards any submission where _gotcha is filled. -->
+  <div class="eng-hp" aria-hidden="true">
+    <label for="eng-website">Leave this field empty</label>
+    <input type="text" id="eng-website" name="_gotcha" tabindex="-1" autocomplete="off">
+  </div>
+
+  <div class="eng-field">
+    <label for="eng-name">Name <span class="req" aria-hidden="true">*</span></label>
+    <input type="text" id="eng-name" name="name" required autocomplete="name">
+  </div>
+
+  <div class="eng-field">
+    <label for="eng-email">Email <span class="req" aria-hidden="true">*</span></label>
+    <input type="email" id="eng-email" name="email" required autocomplete="email"
+           inputmode="email">
+    <p class="eng-help">We'll only use this to contact you about the Engineering Team.</p>
+  </div>
+
+  <div class="eng-field">
+    <label for="eng-city">City / which meetup are you part of? <span class="opt">(optional)</span></label>
+    <input type="text" id="eng-city" name="city-or-meetup"
+           placeholder="e.g. PyData London" autocomplete="off">
+  </div>
+
+  <div class="eng-field eng-row">
+    <div>
+      <label for="eng-github">GitHub <span class="opt">(optional)</span></label>
+      <input type="text" id="eng-github" name="github"
+             placeholder="username or URL" autocomplete="off">
+    </div>
+    <div>
+      <label for="eng-linkedin">LinkedIn <span class="opt">(optional)</span></label>
+      <input type="text" id="eng-linkedin" name="linkedin"
+             placeholder="username or URL" autocomplete="off">
+    </div>
+  </div>
+
+  <fieldset class="eng-field">
+    <legend>Areas you'd like to help with <span class="opt">(pick any)</span></legend>
+    <div class="eng-checks">
+      <label><input type="checkbox" name="areas[]" value="Frontend"> Frontend</label>
+      <label><input type="checkbox" name="areas[]" value="Backend"> Backend</label>
+      <label><input type="checkbox" name="areas[]" value="Data / analytics"> Data / analytics</label>
+      <label><input type="checkbox" name="areas[]" value="DevOps / infra"> DevOps / infra</label>
+      <label><input type="checkbox" name="areas[]" value="Design"> Design</label>
+      <label><input type="checkbox" name="areas[]" value="Docs"> Docs</label>
+      <label><input type="checkbox" name="areas[]" value="Community / ops"> Community / ops</label>
+      <label><input type="checkbox" name="areas[]" value="Other"> Other</label>
+    </div>
+  </fieldset>
+
+  <fieldset class="eng-field">
+    <legend>Time you could give</legend>
+    <div class="eng-radios">
+      <label><input type="radio" name="time-commitment" value="A few hours a month"> A few hours a month</label>
+      <label><input type="radio" name="time-commitment" value="A few hours a week"> A few hours a week</label>
+      <label><input type="radio" name="time-commitment" value="More — let's talk"> More — let's talk</label>
+    </div>
+  </fieldset>
+
+  <div class="eng-field">
+    <label for="eng-message">What would you like to help build, or what frustrates you
+      about running / attending meetups? <span class="opt">(optional)</span></label>
+    <textarea id="eng-message" name="message" rows="5"></textarea>
+  </div>
+
+  <div class="eng-privacy" id="eng-privacy">
+    <h2>How we'll handle your data</h2>
+    <ul>
+      <li><strong>What we collect:</strong> the details you enter above (name, email,
+        and anything else you choose to add).</li>
+      <li><strong>Why:</strong> so PyData London organisers can contact you about the
+        Engineering Team and coordinate volunteering. Nothing else.</li>
+      <li><strong>Lawful basis:</strong> your consent (UK GDPR Art. 6(1)(a)).</li>
+      <li><strong>Who sees it:</strong> PyData London organisers only.</li>
+      <li><strong>Where it's stored:</strong> your submission is processed by
+        <a href="https://formspree.io" rel="noopener">Formspree</a>, a form service
+        hosted in the United States, which forwards it to our organiser inbox.
+        Formspree acts as our data processor under a GDPR Data Processing Agreement
+        with Standard Contractual Clauses covering the transfer. We don't add you to
+        any other mailing list and we will never sell or share your details with
+        anyone else.</li>
+      <li><strong>Your rights:</strong> you can ask us to show or delete everything we
+        hold about you at any time — just email
+        <a href="mailto:{{ site.engineering_contact_email }}">{{ site.engineering_contact_email }}</a>
+        and we'll action it.</li>
+    </ul>
+  </div>
+
+  <div class="eng-field eng-consent">
+    <label>
+      <input type="checkbox" id="eng-consent" name="consent" required>
+      <span>I've read the above and consent to PyData London organisers storing these
+        details and contacting me about the Engineering Team. I understand I can ask
+        for my data to be deleted at any time. <span class="req" aria-hidden="true">*</span></span>
+    </label>
+  </div>
+
+  <p id="eng-error" class="eng-error" role="alert" tabindex="-1" hidden></p>
+
+  <button type="submit" id="eng-submit" class="eng-submit">Count me in</button>
+  <p class="eng-required-note"><span class="req" aria-hidden="true">*</span> required</p>
+</form>
+
+<div id="eng-success" class="eng-success" role="status" tabindex="-1" hidden>
+  <h2>🎉 You're on the list!</h2>
+  <p>
+    Thanks for raising your hand. A PyData London organiser will be in touch at the
+    email you gave us. In the meantime, come say hi at a
+    <a href="{{ site.baseurl | replace: '//', '/' }}/meetups">meetup</a>.
+  </p>
+  <p class="eng-help">
+    Want your details removed? Email
+    <a href="mailto:{{ site.engineering_contact_email }}">{{ site.engineering_contact_email }}</a>.
+  </p>
+</div>
+
+<style>
+  .eng-intro { max-width: 680px; }
+  .eng-form { max-width: 680px; margin-top: 1.5rem; }
+
+  /* Honeypot: hidden from humans (visually + AT) but present in the DOM for bots */
+  .eng-hp {
+    position: absolute !important;
+    left: -9999px !important;
+    width: 1px; height: 1px; overflow: hidden;
+  }
+
+  .eng-field { margin-bottom: 1.6rem; border: 0; padding: 0; }
+  fieldset.eng-field { min-width: 0; }
+
+  .eng-form label { display: block; font-weight: 500; margin-bottom: .35rem; }
+  .eng-form legend { font-weight: 500; margin-bottom: .5rem; padding: 0; }
+
+  .eng-form .req { color: #c0392b; font-weight: 600; }
+  .eng-form .opt { color: #5f5f5f; font-weight: 400; font-size: .8em; }
+  .eng-help { color: #5f5f5f; font-size: .8rem; margin: .35rem 0 0; }
+
+  .eng-form input[type="text"],
+  .eng-form input[type="email"],
+  .eng-form textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: .7rem .8rem;
+    font-size: 1rem;
+    font-family: inherit;
+    color: #121212;
+    background: #fff;
+    border: 1px solid #C7C6C5;
+    border-radius: 4px;
+  }
+  .eng-form textarea { resize: vertical; }
+
+  .eng-form input:focus,
+  .eng-form textarea:focus {
+    outline: 3px solid #679bb6;
+    outline-offset: 1px;
+    border-color: #505879;
+  }
+
+  .eng-row { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .eng-row > div { flex: 1 1 240px; }
+
+  .eng-checks { display: grid; grid-template-columns: repeat(2, 1fr); gap: .5rem 1.5rem; }
+  .eng-radios { display: flex; flex-direction: column; gap: .55rem; }
+  .eng-checks label,
+  .eng-radios label {
+    font-weight: 400; display: flex; align-items: flex-start; gap: .55rem; margin: 0;
+  }
+  .eng-checks input, .eng-radios input { margin-top: .25rem; flex: 0 0 auto; }
+  /* Bigger, easier hit targets for checkboxes/radios on touch */
+  .eng-checks input[type="checkbox"],
+  .eng-radios input[type="radio"],
+  .eng-consent input[type="checkbox"] { width: 1.15rem; height: 1.15rem; }
+
+  .eng-privacy {
+    background: #E6DED6;
+    border-left: 4px solid #505879;
+    border-radius: 4px;
+    padding: 1rem 1.2rem;
+    margin: 1.8rem 0;
+    font-size: .9rem;
+  }
+  .eng-privacy h2 { margin: 0 0 .6rem; font-size: 1.05rem; }
+  .eng-privacy ul { margin: 0; padding-left: 1.1rem; }
+  .eng-privacy li { margin-bottom: .45rem; line-height: 1.45; }
+
+  .eng-consent label { display: flex; align-items: flex-start; gap: .6rem; font-weight: 400; }
+  .eng-consent input { margin-top: .2rem; flex: 0 0 auto; }
+  .eng-consent input:focus { outline: 3px solid #679bb6; outline-offset: 2px; }
+
+  .eng-submit {
+    background: #505879;
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    padding: .8rem 1.8rem;
+    font-size: 1rem;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .eng-submit:hover { background: #3f4660; }
+  .eng-submit:focus { outline: 3px solid #d88f49; outline-offset: 2px; }
+  .eng-submit[disabled] { opacity: .6; cursor: progress; }
+
+  .eng-required-note { color: #5f5f5f; font-size: .8rem; margin-top: .6rem; }
+
+  .eng-error {
+    background: #fbe6e3; border: 1px solid #c0392b; color: #8a261b;
+    padding: .7rem .9rem; border-radius: 4px; margin: 0 0 1rem;
+  }
+
+  .eng-success {
+    max-width: 680px; background: #E6DED6; border-left: 4px solid #AEB9A0;
+    border-radius: 4px; padding: 1.4rem 1.5rem; margin-top: 1.5rem;
+  }
+  .eng-success h2 { margin-top: 0; }
+
+  @media (max-width: 560px) {
+    .eng-checks { grid-template-columns: 1fr; }
+  }
+</style>
+
+<script>
+  (function () {
+    var form = document.getElementById('eng-form');
+    if (!form) return;
+    var errorBox = document.getElementById('eng-error');
+    var success = document.getElementById('eng-success');
+    var submitBtn = document.getElementById('eng-submit');
+
+    function showError(msg) {
+      errorBox.textContent = msg;
+      errorBox.hidden = false;
+      errorBox.focus && errorBox.focus();
+    }
+
+    form.addEventListener('submit', function (e) {
+      // Native validation (required Name/Email/consent) runs before this fires,
+      // so an invalid form never reaches here. This is a defensive backstop.
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
+      // If JS is available we submit via fetch for an inline thank-you.
+      // (With JS off, the form still posts normally to Formspree.)
+      e.preventDefault();
+      errorBox.hidden = true;
+
+      // Client-side honeypot check (Formspree also enforces this server-side).
+      if (form.querySelector('[name="_gotcha"]').value) {
+        success.hidden = false;
+        form.hidden = true;
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Sending…';
+
+      fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' }
+      }).then(function (response) {
+        if (response.ok) {
+          form.hidden = true;
+          success.hidden = false;
+          success.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          success.focus && success.focus();
+        } else {
+          return response.json().then(function (data) {
+            var msg = (data && data.errors)
+              ? data.errors.map(function (x) { return x.message; }).join(', ')
+              : 'Something went wrong. Please try again, or email us directly.';
+            throw new Error(msg);
+          });
+        }
+      }).catch(function (err) {
+        showError(err.message || 'Network error — please try again, or email us directly.');
+      }).finally(function () {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Count me in';
+      });
+    });
+  })();
+</script>

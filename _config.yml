@@ -16,6 +16,14 @@ twitter: "https://twitter.com/pydatalondon"
 youtube: "https://www.youtube.com/user/PyDataTV"
 vimeo: "https://vimeo.com/pydata"
 
+# Engineering Team sign-up form (see /engineering/)
+# Submissions are handled by Formspree (https://formspree.io). Formspree hosts
+# data in the US and is GDPR-compliant via its DPA / Standard Contractual Clauses
+# (EU data residency is not offered) — this is reflected in the privacy notice.
+# engineering_contact_email is the address people email to request data deletion.
+engineering_form_endpoint: "https://formspree.io/f/mojzejyp"
+engineering_contact_email: "pydata@coefficient.ai"
+
 encoding: utf-8
 defaults:
   -
