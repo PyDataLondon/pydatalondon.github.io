@@ -95,35 +95,30 @@ permalink: /engineering/
     <textarea id="eng-message" name="message" rows="5"></textarea>
   </div>
 
-  <div class="eng-privacy" id="eng-privacy">
-    <h2>How we'll handle your data</h2>
+  <details class="eng-privacy" id="eng-privacy">
+    <summary>How we'll handle your data <span class="opt">(the GDPR bit)</span></summary>
     <ul>
-      <li><strong>What we collect:</strong> the details you enter above (name, email,
-        and anything else you choose to add).</li>
-      <li><strong>Why:</strong> so PyData London organisers can contact you about the
-        Engineering Team and coordinate volunteering. Nothing else.</li>
-      <li><strong>Lawful basis:</strong> your consent (UK GDPR Art. 6(1)(a)).</li>
-      <li><strong>Who sees it:</strong> PyData London organisers only.</li>
-      <li><strong>Where it's stored:</strong> your submission is processed by
-        <a href="https://formspree.io" rel="noopener">Formspree</a>, a form service
-        hosted in the United States, which forwards it to our organiser inbox.
-        Formspree acts as our data processor under a GDPR Data Processing Agreement
-        with Standard Contractual Clauses covering the transfer. We don't add you to
-        any other mailing list and we will never sell or share your details with
-        anyone else.</li>
-      <li><strong>Your rights:</strong> you can ask us to show or delete everything we
-        hold about you at any time — just email
-        <a href="mailto:{{ site.engineering_contact_email }}">{{ site.engineering_contact_email }}</a>
-        and we'll action it.</li>
+      <li><strong>What &amp; why:</strong> we use the details above only so PyData London
+        organisers can contact you about the Engineering Team — nothing else.</li>
+      <li><strong>Lawful basis:</strong> your consent.</li>
+      <li><strong>Who sees it:</strong> PyData London organisers only. We'll never sell
+        or share it, or add you to any other mailing list.</li>
+      <li><strong>Where it's stored:</strong> processed by
+        <a href="https://formspree.io" rel="noopener">Formspree</a> (a US-hosted form
+        service) as our data processor under a GDPR Data Processing Agreement with
+        Standard Contractual Clauses, then forwarded to our organiser inbox.</li>
+      <li><strong>Your rights:</strong> ask us to show or delete everything we hold
+        about you at any time via our
+        <a href="{{ site.baseurl | replace: '//', '/' }}/contact-us">contact page</a>.</li>
     </ul>
-  </div>
+  </details>
 
   <div class="eng-field eng-consent">
     <label>
       <input type="checkbox" id="eng-consent" name="consent" required>
-      <span>I've read the above and consent to PyData London organisers storing these
-        details and contacting me about the Engineering Team. I understand I can ask
-        for my data to be deleted at any time. <span class="req" aria-hidden="true">*</span></span>
+      <span>I consent to PyData London organisers storing these details and contacting
+        me about the Engineering Team. I can ask for my data to be deleted at any time.
+        <span class="req" aria-hidden="true">*</span></span>
     </label>
   </div>
 
@@ -141,8 +136,8 @@ permalink: /engineering/
     <a href="{{ site.baseurl | replace: '//', '/' }}/meetups">meetup</a>.
   </p>
   <p class="eng-help">
-    Want your details removed? Email
-    <a href="mailto:{{ site.engineering_contact_email }}">{{ site.engineering_contact_email }}</a>.
+    Want your details removed? Just ask via our
+    <a href="{{ site.baseurl | replace: '//', '/' }}/contact-us">contact page</a>.
   </p>
 </div>
 
@@ -208,12 +203,22 @@ permalink: /engineering/
     background: #E6DED6;
     border-left: 4px solid #505879;
     border-radius: 4px;
-    padding: 1rem 1.2rem;
+    padding: .2rem 1.2rem;
     margin: 1.8rem 0;
     font-size: .9rem;
   }
-  .eng-privacy h2 { margin: 0 0 .6rem; font-size: 1.05rem; }
-  .eng-privacy ul { margin: 0; padding-left: 1.1rem; }
+  .eng-privacy > summary {
+    cursor: pointer;
+    font-weight: 500;
+    padding: .8rem 0;
+    line-height: 1.4;
+  }
+  .eng-privacy > summary:focus-visible {
+    outline: 3px solid #679bb6;
+    outline-offset: 2px;
+  }
+  .eng-privacy[open] > summary { margin-bottom: .2rem; }
+  .eng-privacy ul { margin: 0 0 .8rem; padding-left: 1.1rem; }
   .eng-privacy li { margin-bottom: .45rem; line-height: 1.45; }
 
   .eng-consent label { display: flex; align-items: flex-start; gap: .6rem; font-weight: 400; }
